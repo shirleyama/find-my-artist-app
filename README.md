@@ -33,11 +33,11 @@ The interface is responsive and built using Bootstrap, making it easily accessib
 
 ## The URL of the GitHub repository
 
-[Find My Artist Repo](https://github.com/stansaner/song-search-app)
+[Find My Artist Repo](https://github.com/shirleyama/find-my-artist-app)
 
 ## Link to the Live App
 
-[Find My Artist App](https://stansaner.github.io/song-search-app)
+[Find My Artist App](https://shirleyama.github.io/find-my-artist-app)
 
 ## User Story
 
